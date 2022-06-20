@@ -1,0 +1,3 @@
+[submodule "multipiano"]
+	path = multipiano
+	url = git@github.com:YoanGuerineau/multipiano.git
